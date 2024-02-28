@@ -1,8 +1,11 @@
 ### Hello, I'm Eng. Rawan AlGhamdi 👋
 A passionate student from UOS in UAE, currently interning at Smart Methods Company.
 
+![CPE](https://github.com/ItsRawanMoha/ItsRawanMoha/blob/main/Eng.%20Rawan%20AlGhamdi.png)
+
 ## Languages & Tools 🪛:
 C++/ Python / MYSQL / JS / HTML / CSS / Arduino / UML / Android Studio / C / C# / PHP / JavaScript  
+
 [![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsRawanMoha)](https://github.com/ItsRawanMoha/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRawanMOha&layout=compact)
   
 ## Get in Touch 👏🏻:
