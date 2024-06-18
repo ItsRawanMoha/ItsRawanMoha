@@ -1,5 +1,5 @@
 ### Hello, I'm Eng. Rawan AlGhamdi 👋
-A passionate student from UOS in UAE, currently interning at Smart Methods Company.
+A passionate student from UOS in UAE, interned at Smart Methods Company as a full stack robotics engineering.
 
 ![CPE](https://github.com/ItsRawanMoha/ItsRawanMoha/blob/main/Eng.%20Rawan%20AlGhamdi.png)
 
